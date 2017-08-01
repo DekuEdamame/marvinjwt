@@ -3,12 +3,11 @@ package jwt.auth0;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
 import jwt.IJwtHandler;
-
 import java.io.UnsupportedEncodingException;
 import java.util.Date;
 
 /**
- * Created by Volkan on 31.07.2017.
+ * Created by JnSnw on 31.07.2017.
  */
 public class TokenHandler implements IJwtHandler {
 

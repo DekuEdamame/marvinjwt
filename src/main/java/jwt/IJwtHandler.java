@@ -1,11 +1,10 @@
 package jwt;
 
 import java.io.UnsupportedEncodingException;
-import java.util.Date;
 
 
 /**
- * Created by Volkan on 31.07.2017.
+ * Created by JnSnw on 31.07.2017.
  */
 public interface IJwtHandler {
 
